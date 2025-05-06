@@ -20,5 +20,6 @@ The repo is divide into 3 branches (with a brief explanation), one for each assi
 
 - **Demo Videos**:
 <div align="center">
-    <img src="quad.gif"  style="max-width:600px;">
+    <img src="hex.gif"">
+    <img src="quad.gif"">
 </div>
