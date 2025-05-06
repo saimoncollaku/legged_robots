@@ -19,6 +19,6 @@ The repo is divide into 3 branches (with a brief explanation), one for each assi
   - **Hexapod Gait Design**: Defined a coordinated six-leg swing/stance pattern for stable hexapod walking.
 
 - **Demo Videos**:
-https://github.com/user-attachments/assets/3bf80637-9cbf-4db9-bb7a-4c35e54ef575
-https://github.com/user-attachments/assets/9f064297-c26b-4841-9b27-251f7d8b7606
-
+<div align="center">
+    <img src="quad.gif"  style="max-width:600px;">
+</div>
