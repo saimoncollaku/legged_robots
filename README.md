@@ -18,4 +18,11 @@ The repo is divide into 3 branches (with a brief explanation), one for each assi
   - **Uneven-Terrain Adaptation**: Offset foot and base targets using height maps for bumpy ground.
   - **Hexapod Gait Design**: Defined a coordinated six-leg swing/stance pattern for stable hexapod walking.
 
+<p align="center">
+  <video src="data/hex.mp4" controls width="480"></video>
+</p>
+<p align="center">
+  <video src="data/quad.mp4" controls width="480"></video>
+</p>
+
   
