@@ -1,12 +1,12 @@
 ## Repo structure
 This is the repo of my work for the course of "Computational Models of Motion" taught at ETH Zurich.
 The repo is divide into 3 branches (with a brief explanation), one for each assignment:
-  - **kinematic**
+  - **main**
   - **optim**
   - **rl**
 
 
-## Kinematic project
+## Project 1 (main branch) - Kinematic walking controller
 
 - **Objective**: Develop a kinematic walking controller for quadruped and hexapod robots.
 
