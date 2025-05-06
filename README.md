@@ -6,8 +6,7 @@
   - **Reference Generation**: Hand‐designed kinematic sketches for motions (e.g. backflip360).
   - **Trajectory Optimization**: Multiple‐shooting formulation with SRB dynamics, cost on state/control tracking, dynamics & contact constraints.
   - **Controllers**: PLAYBACK (no physics), PD, FF, and FF+PD controllers in Mujoco physics sim.
-   
-    - 
+
 - **Demo Video**:
 <div align="center">
     <img src="playback.gif"">
