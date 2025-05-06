@@ -1,0 +1,15 @@
+# backflip
+k_p_hip_front = 3.5
+k_p_knee_front = 5
+k_p_hip_hind = 5.5
+k_p_knee_hind = 7
+k_d_hip_front = 0.1
+k_d_knee_front = 0.15
+k_d_hip_hind = 0.12
+k_d_knee_hind = 0.18
+k_ff_hip = 0.2
+k_ff_knee = 0.80
+k_a_hip_hind = 0.7
+k_a_knee_hind = 2.8
+k_a_hip_front = 0.24
+k_a_knee_front = 0.335

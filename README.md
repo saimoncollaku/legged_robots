@@ -1,21 +1,10 @@
-## Repo structure
-This is the repo of my work for the course of "Computational Models of Motion" taught at ETH Zurich.
-The repo is divide into 3 branches (with a brief explanation), one for each assignment:
-  - **main**
-  - **optim**
-  - **rl**
+## Project 2 (optim branch) - Trajectory Optimization for a Quadruped
 
+- **Objective:** Implement a trajectory‐optimization pipeline (using CasADi) and evaluate optimized motions in MuJoCo for a planar 8-DOF quadruped.
 
-## Project 1 (main branch) - Kinematic walking controller
+- **Key Components:**
+  - **Reference Generation**: Hand‐designed kinematic sketches for motions (e.g. backflip360).
+  - **Trajectory Optimization**: Multiple‐shooting formulation with SRB dynamics, cost on state/control tracking, dynamics & contact constraints.
+  - **Evaluation** :
+    - PLAYBACK (no physics), PD, FF, and FF+PD controllers.
 
-- **Objective**: Develop a kinematic walking controller for quadruped and hexapod robots.
-
-- **Key Components Implemented:**
-  - **Forward Kinematics**: Calculated foot positions from joint angles.
-  - **Finite-Difference Jacobian**: Estimated the Jacobian of each foot via central differences.
-  - **Gauss–Newton IK Solver**: Solved per-leg inverse kinematics and assembled full-body commands.
-  - **Base Trajectory Planning**: Integrated user velocity commands to update target base pose.
-  - **Uneven-Terrain Adaptation**: Offset foot and base targets using height maps for bumpy ground.
-  - **Hexapod Gait Design**: Defined a coordinated six-leg swing/stance pattern for stable hexapod walking.
-
-  

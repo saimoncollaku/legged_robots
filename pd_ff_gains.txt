@@ -1,0 +1,53 @@
+---------SQUAT
+    k_ff_hip = 0.5
+    k_ff_knee = 0.75
+    k_p_hip = 3.5
+    k_d_hip = 0.1
+    k_p_knee = 5
+    k_d_knee = 0.13
+
+---------TROT
+    k_ff_hip = 0.5
+    k_ff_knee = 0.75
+    k_p_hip = 4.5
+    k_d_hip = 0.1
+    k_p_knee = 6
+    k_d_knee = 0.13
+
+---------WALK
+    k_ff_hip = 0.5
+    k_ff_knee = 0.5
+    k_p_hip = 4.5
+    k_d_hip = 0.1
+    k_p_knee = 7
+    k_d_knee = 0.13
+
+---------JUMP
+    k_p_hip = 10
+    k_d_hip = 0.1
+    k_p_knee = 10
+    k_d_knee = 0.15
+
+---------BOUND
+    k_ff_hip = 0.5
+    k_ff_knee = 0.7
+    k_p_hip = 4.5
+    k_d_hip = 0.1
+    k_p_knee = 7
+    k_d_knee = 0.13
+
+--------BACKFLIP 180
+    k_ff_hip = 3
+    k_ff_knee = 2.5
+    k_p_hip = 5
+    k_d_hip = 0.12
+    k_p_knee = 7
+    k_d_knee = 0.12
+
+-------- double BACKFLIP
+    k_ff_hip = 5
+    k_ff_knee = 5
+    k_p_hip = 5
+    k_d_hip = 0.12
+    k_p_knee = 7
+    k_d_knee = 0.12
