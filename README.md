@@ -7,4 +7,11 @@
   - **Trajectory Optimization**: Multiple‐shooting formulation with SRB dynamics, cost on state/control tracking, dynamics & contact constraints.
   - **Evaluation** :
     - PLAYBACK (no physics), PD, FF, and FF+PD controllers.
+   
+    - 
+- **Demo Video**:
+<div align="center">
+    <img src="playback.gif"">
+</div>
+
 
