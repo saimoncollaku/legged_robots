@@ -1,0 +1,16 @@
+data/out
+
+# vscode
+.vscode/
+
+# clion
+.idea
+
+# build 
+build/*
+cmake-build-*/
+ext/cache/*
+CMakeLists.txt.user
+
+# others
+.DS_Store
